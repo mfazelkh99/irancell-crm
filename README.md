@@ -94,6 +94,13 @@ irancellApp/
 
 # 📸 Screenshots
 
+
+## login
+
+![](screenshots/login.png)
+
+---
+
 ## Dashboard
 
 ![](screenshots/dashboard.png)
@@ -120,13 +127,14 @@ irancellApp/
 
 ## Mini App
 
-![](screenshots/miniapp1.png)
+![](screenshots/miniapp1.jpg)
 
 <br>
 
-![](screenshots/miniapp2.png)
+![](screenshots/miniapp2.jpeg)
 
 ---
+
 
 # 🚀 Installation
 
