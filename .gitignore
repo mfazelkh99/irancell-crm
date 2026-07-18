@@ -1,0 +1,36 @@
+# Logs
+*.log
+error_log
+
+# Environment
+.env
+
+# Composer
+vendor/
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+
+# Cache
+cache/
+
+# Backup
+*.zip
+*.sql
+*.bak
+
+config.php
+test.php
+
+users_data.json
