@@ -127,11 +127,7 @@ irancellApp/
 
 ## Mini App
 
-![](screenshots/miniapp1.jpg)
-
-<br>
-
-![](screenshots/miniapp2.jpeg)
+![](screenshots/miniapp.png)
 
 ---
 
