@@ -213,7 +213,7 @@ This CRM has been designed to support additional messaging platforms such as:
 
 # 👨‍💻 Author
 
-**Mohammad Fazel Kharami**
+**Mohammad Fazel khorrami**
 
 Software Engineer
 
